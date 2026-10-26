@@ -1,0 +1,8 @@
+streamlit>=1.35
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+pydantic>=2.0
+google-genai>=1.0
+sqlalchemy>=2.0
+python-dotenv
+requests
